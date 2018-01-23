@@ -1,0 +1,14 @@
+c:\users\уринбасаровд\documents\visual studio 2017\Projects\ControlWork\ControlWork\bin\Debug\ControlWork.exe.config
+c:\users\уринбасаровд\documents\visual studio 2017\Projects\ControlWork\ControlWork\bin\Debug\ControlWork.exe
+c:\users\уринбасаровд\documents\visual studio 2017\Projects\ControlWork\ControlWork\bin\Debug\ControlWork.pdb
+c:\users\уринбасаровд\documents\visual studio 2017\Projects\ControlWork\ControlWork\obj\Debug\ControlWork.csprojResolveAssemblyReference.cache
+c:\users\уринбасаровд\documents\visual studio 2017\Projects\ControlWork\ControlWork\obj\Debug\MainWindow.g.cs
+c:\users\уринбасаровд\documents\visual studio 2017\Projects\ControlWork\ControlWork\obj\Debug\App.g.cs
+c:\users\уринбасаровд\documents\visual studio 2017\Projects\ControlWork\ControlWork\obj\Debug\ControlWork_MarkupCompile.cache
+c:\users\уринбасаровд\documents\visual studio 2017\Projects\ControlWork\ControlWork\obj\Debug\ControlWork_MarkupCompile.lref
+c:\users\уринбасаровд\documents\visual studio 2017\Projects\ControlWork\ControlWork\obj\Debug\MainWindow.baml
+c:\users\уринбасаровд\documents\visual studio 2017\Projects\ControlWork\ControlWork\obj\Debug\ControlWork.g.resources
+c:\users\уринбасаровд\documents\visual studio 2017\Projects\ControlWork\ControlWork\obj\Debug\ControlWork.Properties.Resources.resources
+c:\users\уринбасаровд\documents\visual studio 2017\Projects\ControlWork\ControlWork\obj\Debug\ControlWork.csproj.GenerateResource.Cache
+c:\users\уринбасаровд\documents\visual studio 2017\Projects\ControlWork\ControlWork\obj\Debug\ControlWork.exe
+c:\users\уринбасаровд\documents\visual studio 2017\Projects\ControlWork\ControlWork\obj\Debug\ControlWork.pdb
